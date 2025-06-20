@@ -10,7 +10,7 @@ Senior Software Engineer | Technical Team Lead | Full Stack Developer
 
 ### ✨ **Career Objective**
 
-Highly experienced Full Stack Developer and Technical Lead with 7+ years in designing, developing, and leading scalable enterprise applications. Specialized in .NET ecosystem, JavaScript frameworks, microservices architecture, and cloud-native solutions. Proven track record of leading multinational teams, collaborating with global clients, and driving business-critical solutions with high impact. Actively seeking a challenging leadership role in a high-performing software engineering environment in Europe or North America.
+Highly experienced Full Stack Developer and Technical Lead with 8 years in designing, developing, and leading scalable enterprise applications. Specialized in .NET ecosystem, JavaScript frameworks, microservices architecture, and cloud-native solutions. Proven track record of leading multinational teams, collaborating with global clients, and driving business-critical solutions with high impact. Actively seeking a challenging leadership role in a high-performing software engineering environment in Europe or North America.
 
 ---
 
